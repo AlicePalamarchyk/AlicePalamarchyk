@@ -1,4 +1,3 @@
-
 # Портфолио: аналитик данных
 
 ## Обо мне
@@ -6,7 +5,7 @@
 - Привет! Меня зовут Алиса Паламарчук
 - В настоящее время прохожу обучение на аналитика данных в SKYPRO
 - В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
-<br>
+
 
 ## Навыки и технологии 
 
@@ -31,10 +30,9 @@
 > <a href="https://docs.google.com/document/d/1j897jCYZ3uO8EELxd1FeBXoQKAaIx_LB22OSFl3YzFg/edit?usp=sharing">Ссылка на проект</a>
 
  <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
+
+> <a href="https://docs.google.com/document/d/1RQtTfDDpOM-kAm3b07bpUwQTKqE7SidBf-3wGzHGEXA/edit">Ссылка на выводы</a>
+<br> 
 
 <p> Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра</p>
 <p>Что нужно было сделать:<p>
@@ -44,13 +42,33 @@
   <li>Задача №3. Оценить активность пользователей для последующих маркетинговых акций.</li>
 </ol>
 
-<p>Выводы (итоги):<p>
-  
-> <a href="https://docs.google.com/presentation/d/1TTR_irqCzZHxm55s11IxqfheuPqGOg0shPBSpyau2kk/edit#slide=id.p">Ссылка на проект</a>
-  
+<p>Как решала:<p>
 
+> <a href="https://docs.google.com/spreadsheets/d/1EPcI3qVgt8jtFzRAqp-3sESoKEyvepYn/edit#gid=854964703">Ссылка на проект</a>
 
-<!---
-AlicePalamarchyk/AlicePalamarchyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <p>Выводы (итоги):<p>
+  
+> <a href="https://docs.google.com/presentation/d/1TTR_irqCzZHxm55s11IxqfheuPqGOg0shPBSpyau2kk/edit#slide=id.p">Ссылка на выводы</a>
+<br>
+
+<p> Проект 3: Параметризованный дашборд на основе данных о продажах двух торговых точек из листов </p>
+<p>Что нужно было сделать:<p>
+<ol>
+  <li>Задача №1. Импортировать в документ "Свод" листы с данными с помощью функции IMPORTRANGE.</li>
+  <li>Задача №2. Создать ячейку с выпадающим списком (с различными значениями payment_type) и с помощью функции QUERY параметризовать импорт листов с данными.</li>
+  <li>Задача №3. Рассчитать «Длительность проведения транзакции».</li>
+  <li>Задача №4. Построить график динамики количества транзакций по торговым точкам и график динамики длительности проведения транзакций по торговым точкам.</li>
+</ol>
+
+<p>Как решала:<p>
+  
+> <a href="https://docs.google.com/spreadsheets/d/1TVh2V8ChYNjM7z_JPPrOkZ3Nwk2gt7sZF63KfkH0PmA/edit#gid=805686416">Ссылка на проект</a>
+
+ <p>Выводы (итоги):<p>
+<ol>
+  <li>Создан параметризованный дашборд, благодаря которому можно посмотреть динамику количества транзакций по торговым точкам и динамику длительности проведения транзакций по торговым точкам. Иными словами, мы можем смотреть и анализировать, как эти величины изменяются во времени, например, по дням, или по неделям в зависимости от определенного типа платежа.</li>
+  <li>Итог №2</li>
+</ol>
+
+## Контактная информация
+- Email: alisa.palamarchyk@gmail.com
